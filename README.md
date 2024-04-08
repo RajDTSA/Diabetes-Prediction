@@ -22,8 +22,8 @@ Age: To express the age
 
 Outcome: To express the final result 1 is YES o is NO
 
-****
-**Model:**
-**The idea behind this project was to leverage multiple models. **
 
-**Best Model has been Logistic Regression model ******
+**Model:**
+**The idea behind this project was to leverage multiple models.**
+
+**Best Model has been Logistic Regression model**
