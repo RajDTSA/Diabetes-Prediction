@@ -3,7 +3,9 @@ Introduction: We wanted to predict diabetes in people on the basis of certain fa
 
 Data:
 https://www.kaggle.com/datasets/ehababoelnaga/diabetes-dataset
+
 **Dataset Features:**
+
 Pregnancies: To express the Number of pregnancies
 
 Glucose: To express the Glucose level in blood
