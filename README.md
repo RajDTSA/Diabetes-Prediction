@@ -3,7 +3,7 @@ Introduction: We wanted to predict diabetes in people on the basis of certain fa
 
 Data:
 https://www.kaggle.com/datasets/ehababoelnaga/diabetes-dataset
-Dataset Features:
+**Dataset Features:**
 Pregnancies: To express the Number of pregnancies
 
 Glucose: To express the Glucose level in blood
@@ -22,8 +22,8 @@ Age: To express the age
 
 Outcome: To express the final result 1 is YES o is NO
 
+****
+**Model:**
+**The idea behind this project was to leverage multiple models. **
 
-Model:
-The idea behind this project was to leverage multiple models. 
-
-Best Model has been Logistic Regression model 
+**Best Model has been Logistic Regression model ******
